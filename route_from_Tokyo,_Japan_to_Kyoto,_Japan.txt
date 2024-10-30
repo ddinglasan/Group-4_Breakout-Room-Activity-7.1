@@ -1,0 +1,45 @@
+Directions from Tokyo, Japan to Kyoto, Japan
+=============================================
+
+Option 1 - Route Summary:
+Trip Duration: 05:18:55
+Distance: 453.53 km
+Traffic Delay: 355 minutes
+Directions:
+Head north. Go for 135 ft. (0.04 km)
+Turn right. Go for 0.2 mi. (0.28 km)
+Turn left. Go for 413 ft. (0.13 km)
+Turn right toward Koshu-kaido Street. Go for 233 ft. (0.07 km)
+Turn right onto Koshu-kaido Avenue (Kokudo 20 go). Go for 0.3 mi. (0.53 km)
+Take ramp toward Meguro/Metropolitan Expressway Central Circular Route. Go for 0.2 mi. (0.25 km)
+Turn left onto Yamate-dori Avenue (317) toward Meguro/Metropolitan Expressway Central Circular Route. Go for 2.0 mi. (3.30 km)
+Take ramp toward Sangenjaya/Metropolitan Expressway Route No.3 Shibuya Line. Go for 0.2 mi. (0.27 km)
+Turn left onto Tamagawa-dori Avenue (Kokudo 246 go). Go for 0.2 mi. (0.40 km)
+Take right ramp onto 3 (Metropolitan Expressway Route No.3 Shibuya Line). Go for 3.8 mi. (6.12 km)
+Continue toward TOMEI EXPWY. Go for 0.7 mi. (1.18 km)
+Continue on TOMEI EXPWY. Go for 35.6 mi. (57.28 km)
+Keep right toward Right Route. Go for 0.2 mi. (0.32 km)
+Continue on TOMEI EXPWY. Go for 12.0 mi. (19.33 km)
+Continue toward TOMEI EXPWY. Go for 72 ft. (0.02 km)
+Continue on TOMEI EXPWY. Go for 6.5 mi. (10.43 km)
+Take the exit toward Shintomei/Shizuoka/Nagoya onto SHIN-TOMEI EXPWY. Go for 124 mi. (199.87 km)
+Continue toward Meishin/Yokkaichi/Shimmeishin. Go for 1.3 mi. (2.11 km)
+Continue on ISEWANGAN EXPWY. Go for 18.1 mi. (29.14 km)
+Continue on Kokudo 302 go (ISEWANGAN EXPWY). Go for 3.9 mi. (6.21 km)
+Continue on ISEWANGAN EXPWY toward Yokkaichi/Shimmeishin. Go for 11.9 mi. (19.15 km)
+Continue toward Daian/Kyoto/Osaka. Go for 0.9 mi. (1.41 km)
+Continue on SHIN-MEISHIN EXPWY. Go for 44.6 mi. (71.80 km)
+Take the exit toward Kyoto/Osaka/Meishin onto MEISHIN EXPWY. Go for 8.5 mi. (13.64 km)
+Take the exit toward 1/Kyoto Sanjo. Go for 0.8 mi. (1.36 km)
+Turn left onto Todoufukendo 143 go. Go for 0.5 mi. (0.78 km)
+Continue on Todoufukendo 116 go toward Sanjo Ohashi. Go for 361 ft. (0.11 km)
+Continue on Todoufukendo 143 go. Go for 2.2 mi. (3.59 km)
+Turn left onto Sanjo-dori Street (Todoufukendo 143 go) toward Sanjo Ohashi. Go for 0.7 mi. (1.06 km)
+Turn right onto Higashioji-dori Street toward Takano/Hyakumamben. Go for 0.5 mi. (0.88 km)
+Turn left onto Marutamachi-dori Street toward Saga/Horikawamarutamachi. Go for 1.1 mi. (1.73 km)
+Turn right onto Karasuma-dori Street (Kokudo 367 go) toward Karasumakitaoji. Go for 0.2 mi. (0.30 km)
+Turn left toward Shinmachi-dori Street. Go for 0.2 mi. (0.25 km)
+Turn right onto Shinmachi-dori Street. Go for 499 ft. (0.15 km)
+Turn right onto Demizu-dori Street. Go for 33 ft. (0.01 km)
+Arrive at Demizu-dori Street. Your destination is on the right. (0.00 km)
+=============================================

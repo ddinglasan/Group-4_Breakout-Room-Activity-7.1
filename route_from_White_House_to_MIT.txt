@@ -1,0 +1,35 @@
+Directions from White House to MIT
+=============================================
+
+Option 1 - Route Summary:
+Trip Duration: 15:58:18
+Distance: 1814.76 km
+Traffic Delay: 968 minutes
+Directions:
+Head toward Industrial Dr on Springfield Rd (TN-76). Go for 0.4 mi. (0.63 km)
+Turn left and take ramp onto I-65 N toward Louisville. Go for 13.5 mi. (21.66 km)
+Continue on I-65 N. Go for 130 mi. (209.46 km)
+Take exit 131A toward Watterson Expressway onto I-264 E (Watterson Expy). Go for 11.3 mi. (18.22 km)
+Take exit 23A toward Cincinnati onto I-71 N. Go for 71.7 mi. (115.40 km)
+Take the exit onto I-71 N/I-75 N. Go for 19.2 mi. (30.86 km)
+Continue on I-71 N/I-75 N (Brent Spence Bridge). Go for 0.2 mi. (0.32 km)
+Take exit 1B toward US-50 E/Columbus onto I-71 N (Fort Washington Way). Go for 106 mi. (170.11 km)
+Take the exit toward Cleveland/Wheeling/Airport onto I-70 E/I-71 N. Go for 1.7 mi. (2.72 km)
+Take exit 101A toward I-670/Cleveland/Airport onto I-71 N. Go for 113 mi. (181.71 km)
+Take exit 220 toward Erie PA onto I-271 N. Go for 25.4 mi. (40.95 km)
+Keep left onto I-271 N toward Erie. Go for 2.4 mi. (3.85 km)
+Take the left exit toward Erie Pa/I-90 onto I-271 N (I-271 Express Lane). Go for 13.8 mi. (22.24 km)
+Continue on I-90 E. Go for 53.7 mi. (86.53 km)
+Continue on I-90 E (Am Vets Memorial Hwy). Go for 46.4 mi. (74.71 km)
+Continue on I-90 E (New York State Thruway). Go for 346 mi. (557.82 km)
+Keep right onto I-87 S (New York State Thruway) toward New York State Thruway South/Mass Pike/New York/Boston. Go for 14.6 mi. (23.54 km)
+Take exit 21A toward Mass Tpke/I-90 E/Boston onto New York State Thruway. Go for 7.4 mi. (11.86 km)
+Continue on I-90 E (New York State Thruway). Go for 17.7 mi. (28.49 km)
+Continue on I-90 E (Mass Pike). Go for 131 mi. (210.29 km)
+Take left exit 131 toward Cambridge. Go for 0.6 mi. (0.95 km)
+Turn slightly right onto Cambridge St. Go for 282 ft. (0.09 km)
+Continue on River St. Go for 0.7 mi. (1.13 km)
+Turn slightly right onto Central Sq. Go for 299 ft. (0.09 km)
+Turn right onto Massachusetts Ave (RT-2A). Go for 0.7 mi. (1.12 km)
+Arrive at Massachusetts Ave (RT-2A). (0.00 km)
+=============================================
